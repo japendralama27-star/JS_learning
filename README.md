@@ -1,3 +1,3 @@
 # JS_learning
 
----------topic i will be learning in js----------<br>
+---------Topic I will be learning in JS----------<br>
