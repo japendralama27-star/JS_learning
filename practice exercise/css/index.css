@@ -1,0 +1,15 @@
+.button1{
+    color: yellow;
+    background-color: lightgreen;
+}
+#addtobutton{
+    border-radius: 12px;
+    background-color: lightgreen;
+    height: 30px;
+    width: 100px;
+}
+#wishlistbutton{
+    border-radius: 5px;
+    padding-top: px;
+    
+}
