@@ -1,0 +1,12 @@
+.button1{
+    background-color: lightgreen;
+    border-radius: 12px;
+    border: none;
+}
+
+.button2{
+    border-radius: 5px;
+    border: black solid 2px;
+    padding: 4px ;
+    text-transform: uppercase;
+}
