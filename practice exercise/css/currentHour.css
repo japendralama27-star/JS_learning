@@ -1,0 +1,12 @@
+#my-button{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    border: none;
+}
+.js-odd{
+    background-color: chocolate;
+}
+.js-even{
+    background-color: lawngreen;
+}
