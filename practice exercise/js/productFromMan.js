@@ -52,4 +52,4 @@ let product3={
 
 console.log(isIdenticalProduct(product,''))
 console.log(isIdenticalProduct(product2,product3));
-console.log(isIdenticalProduct(product,pro))
+console.log(isIdenticalProduct(product,product2))
