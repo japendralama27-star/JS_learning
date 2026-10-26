@@ -25,3 +25,10 @@ for(let i=0;i<nums.length;i++)
     sum+=nums[i];
 }
 console.log(`Sum of the array is ${sum}`);
+
+let squares =[];
+for(let i=0;i<nums.length;i++)
+{
+    squares[i]=num[i]*num[i];
+}
+console.log(squares);

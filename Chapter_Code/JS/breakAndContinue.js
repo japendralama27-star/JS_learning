@@ -1,0 +1,27 @@
+// for(let i=0;i<50;i++)
+// {
+//     console.log(i);
+//     if(i===34)
+//     {
+//       break;  
+//     }
+// }
+
+// let arr=[1,3,5,6,7,8,3,4];
+// for(let i=0;i<arr.length;i++)
+// {
+//     if(arr[i]===8)
+//     {
+//         console.log(`Number found at index ${i}`);
+//         break;
+//     }
+//     console.log('still looking');
+// }
+
+for (let i=1;i<=25;i++)
+{
+    if(i%2==0){
+        continue;
+    }
+    console.log(i);
+}
