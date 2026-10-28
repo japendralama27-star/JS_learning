@@ -15,6 +15,9 @@ let sum1=(num1,num2)=>{
 }
 console.log(sum(6,8));
 
+
+//we can write it -> let square=num=>num*num;
+
 let square=(num)=>{
     return num*num;
 }
