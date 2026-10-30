@@ -4,4 +4,3 @@ let alarm=function()
 };
 let timerId= setTimeout(alarm,2000);
 console.log(`Alarm set with timerId: ${timerId}`);
-clearTimeout(timerId);
